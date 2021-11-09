@@ -13,7 +13,7 @@
 
 
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 How to run
 
 Dependencies:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
@@ -77,4 +77,4 @@ It'll create a file named after the milisecons + shape + eye/glass options.
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#random-pig)<br>
+[⬆ Back to top](#random-pig)<br>
